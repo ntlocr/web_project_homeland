@@ -24,7 +24,7 @@ O principal objetivo do projeto foi praticar a construção de layouts fiéis ao
 
 ## Técnicas utilizadas
 
-1. Estruturação semântica com <header>, <main>, <section> e <footer>;
+1. Estruturação semântica com header, main, section e footer;
 2. Organização de arquivos em blocos (arquitetura em pastas);
 3. Responsividade:
 
@@ -38,3 +38,5 @@ O principal objetivo do projeto foi praticar a construção de layouts fiéis ao
 O foco principal foi manter o design o mais fiel possível ao layout do Figma e garantir que o site funcione corretamente em larguras intermeditárias, como 470px, 768px, 999px e 1100px.
 
 ### Link para o GitHub Pages
+
+https://ntlocr.github.io/web_project_homeland/
