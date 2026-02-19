@@ -1,0 +1,53 @@
+.intro {
+  max-width: 830px;
+  margin: 92px auto 0;
+}
+
+.intro__title {
+  font-size: 54px;
+  font-weight: bold;
+  line-height: 1.07;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.intro__text {
+  font-size: 24px;
+  line-height: 1.42;
+  margin: 0;
+}
+
+.intro__quote {
+  font-size: 24px;
+  line-height: 1.42;
+  text-align: right;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.intro__description {
+  font-size: 16px;
+  line-height: 1.63;
+  margin: 0;
+  padding-bottom: 100px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .intro {
+    padding: 0 16px;
+  }
+  .intro__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+  .intro__text {
+    font-size: 18px;
+    line-height: 1.67;
+  }
+}

@@ -1,0 +1,9 @@
+.header {
+  padding-top: 34px;
+  text-align: center;
+}
+
+.header__logo {
+  width: 254px;
+  height: 70px;
+}
